@@ -1,0 +1,1 @@
+Точка входа: /HomeBank/Application/UseCases/OfficesFeedConverterCase.php
